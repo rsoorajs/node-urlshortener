@@ -1,6 +1,6 @@
 {
   "name": "urlshortit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple npm package to shorten your long urls to short url for nodejs",
   "main": "index.js",
   "scripts": {
