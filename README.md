@@ -17,8 +17,10 @@ Fetch function used in this library is currently in experiemental.so you have to
 
 const url = require("urlshortit");
 async function shortenUrl() {
-        const shortenedUrl = await shortener("https://www.fb.com");
+        const shortenedUrl = await url("https://www.fb.com");
     }
+
+    shortenUrl()
 
 
 
