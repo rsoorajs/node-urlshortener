@@ -20,14 +20,14 @@ async function shortenUrl() {
         const shortenedUrl = await url("https://www.fb.com");
     }
 
-    shortenUrl()
+      shortenUrl()
 
 
 
 #Usage 2
 
 const url = require("urlshortit");
-const shortenedUrl = shortener("https://www.fb.com").then((res) => {
+const shortenedUrl = url("https://www.fb.com").then((res) => {
        const shortenedUrl = res;
     });
 ```
