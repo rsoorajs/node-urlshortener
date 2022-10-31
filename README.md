@@ -5,17 +5,17 @@ Fetch function used in this library is currently in experiemental.so you have to
 
 #Installation
 
-`npm i urlshorty`
+`npm i urlshortit`
 
-`yarn add urlshorty`
+`yarn add urlshortit`
 
-`pnpm add urlshorty`
+`pnpm add urlshortit`
 
 ```
 #Usage 1
 
 
-const url = require("urlshorty");
+const url = require("urlshortit");
 async function shortenUrl() {
         const shortenedUrl = await shortener("https://www.fb.com");
     }
@@ -24,7 +24,7 @@ async function shortenUrl() {
 
 #Usage 2
 
-const url = require("urlshorty");
+const url = require("urlshortit");
 const shortenedUrl = shortener("https://www.fb.com").then((res) => {
        const shortenedUrl = res;
     });

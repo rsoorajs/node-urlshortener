@@ -1,0 +1,31 @@
+{
+  "name": "urlshortit",
+  "version": "1.0.0",
+  "description": "A simple npm package to shorten your long urls to short url for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsoorajs/node-urlshortener.git"
+  },
+  "keywords": [
+    "urlshortener",
+    "trimurl",
+    "shortit",
+    "shorturl",
+    "longurltoshorturl",
+    "nodejs-shortener",
+    "nodejs-url-shortener",
+    "nodejs-link-shortener",
+    "nodejs-url-trimmer",
+    "nodejs-link-trimmer"
+  ],
+  "author": "Sooraj S R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsoorajs/node-urlshortener/issues"
+  },
+  "homepage": "https://github.com/rsoorajs/node-urlshortener#readme"
+}
