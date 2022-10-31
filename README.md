@@ -1,4 +1,4 @@
-﻿# node-urlshortener for nodejs
+﻿# urlshortener for nodejs
 
 A simple npm package to shorten your long urls to short url for nodejs
 Fetch function used in this library is currently in experiemental.so you have to run in experimental mode to make the library works fine.
